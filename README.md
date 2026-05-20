@@ -6,4 +6,4 @@
 
 В папке **figures_ru** содержатся иллюстрации к статье.
 
-[Текст статьи на сайте журнала]([https://arcdem.ru/](http://arctica-ac.ru/article/790/))
+[Текст статьи на сайте журнала]([https://arcdem.ru/](http://arctica-ac.ru/article/790/).
